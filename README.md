@@ -1,4 +1,7 @@
 # Calculate and rank the sales to assessment ratioes of Vancouver properties
+
+This is the final project of the course: Intensive Foundations of Computer Science.
+
 In this project, I am analyzing Vancouver property sales records for some interesting findings. 
 The data I have chosen are from two sources:
 1, Nonprofit organization Open Housing(https://openhousing.ca/)
